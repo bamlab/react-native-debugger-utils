@@ -1,0 +1,19 @@
+{
+  "name": "react-native-debugger-utils",
+  "version": "1.0.0",
+  "description": "Utilities for React Native Debugger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamlab/react-native-debugger-utils.git"
+  },
+  "author": "Almouro <contact@almouro.com> (http://alexandremoureaux.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamlab/react-native-debugger-utils/issues"
+  },
+  "homepage": "https://github.com/bamlab/react-native-debugger-utils#readme"
+}
